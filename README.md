@@ -32,4 +32,4 @@ Leave-One-Out CV · LIME interpretability · FDA Warning Letter corpus validatio
 - [Accountability Graph Extraction](https://github.com/sorakim-lab/accountability-graph-extraction)
 
 ## Reference
-Kim, S. (2026). Anticipated Accountability Convergence. SSRN 6371980.
+Kim, S. (2026). Anticipated Accountability Convergence. SSRN Preprint.
